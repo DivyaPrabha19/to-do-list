@@ -46,7 +46,7 @@ SECRET_KEY=your-random-secret-key
 python app.py
 ```
 
-The Flask server will start on `http://localhost:5000`
+The Flask server will start on `https://to-do-list-1-l1w2.onrender.com/`
 
 ### 4. Open the Frontend
 
